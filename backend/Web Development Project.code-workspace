@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Web Development Project"
+		},
+		{
+			"path": "../../../../Uplift"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Uplift"
+	}
+}
