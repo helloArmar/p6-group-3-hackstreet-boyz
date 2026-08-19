@@ -38,7 +38,7 @@ if (!process.env.JWT_SECRET) {
 app.use(helmet());
 app.use(
   cors({
-    origin: process.env.CLIENT_ORIGIN || 'http://localhost:5173',
+    origin: 'https://p6-group-3-hackstreet-boyz-1.onrender.com',
     credentials: true,
   }),
 );
